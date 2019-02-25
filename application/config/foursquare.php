@@ -1,0 +1,5 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+$config['clientID'] = '3QIN2R5OURPT3MXCT11PDPIOJMPX25VYJKD4JTWNATOZFAJH';
+$config['clientSecret'] = 'KXVGYKYCYRKBSUTUPRJCBHSKQX4MARCOSSI0HGQI4HEVFJGV';
+$config['accessToken'] = 'DT32251AY1ED34V5ADCTNURTGSNHWXCNTOMTQM5ANJLBLO2O';
